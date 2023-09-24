@@ -1,2 +1,2 @@
 # GDSC-AIML
-Repo for GDSC AIML Recruitment Task
+Repo for GDSC AIML Recruitment Task 2
